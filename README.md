@@ -1,32 +1,60 @@
-# devtrack
-A team task management system for organizing projects and tracking tasks.
-DevTrack — Team Task Management System
+DevTrack — سامانه مدیریت پروژه و وظایف تیمی
 
-Overview
+DevTrack سامانه‌ای برای سازمان‌دهی پروژه‌ها، تقسیم وظایف بین اعضای تیم و پیگیری میزان پیشرفت کارهاست. هدف آن ساده‌تر کردن مدیریت فعالیت‌های تیمی و افزایش شفافیت در روند انجام پروژه‌هاست.
 
-DevTrack is a team task management system designed to help users organize projects, assign tasks, and track work progress in one place.
+وضعیت مستندات پروژه
 
-Product Features
+#| فاز SDLC| سند| وضعیت
+1| Planning| برگه درخواست مشتری — "specification/01-client-request.md"| در حال انجام
+2| Planning| درخواست سیستم — "specification/02-system-request.md"| در حال انجام
+3| Planning| تحلیل امکان‌سنجی — "specification/03-feasibility.md"| در حال انجام
+4| Planning| منشور پروژه — "specification/04-project-charter.md"| در حال انجام
+5| Analysis| نیازمندی‌های غیرعملیاتی| آینده
+6| Analysis| مدل Use Case| آینده
+7| Analysis| مدل داده (ERD) و نرمال‌سازی| آینده
+8| Design| معماری سیستم| آینده
+9| Design| طراحی رابط کاربری| آینده
+10| Design| طراحی ذخیره‌سازی داده| آینده
+11| Design| طراحی برنامه| آینده
+12| Implementation| گزارش پیاده‌سازی و تست| آینده
 
-- Create and manage projects
-- Create, edit, and delete tasks
-- Track task status: To Do, In Progress, and Done
-- Set task priorities
-- Assign tasks to team members
-- Organize tasks using labels
-- Search and filter tasks
-- Record task creation and update dates
+مسئله
 
-Target Users
+مدیریت پروژه‌های تیمی با پیام‌ها و فهرست‌های پراکنده ممکن است باعث فراموش‌شدن وظایف، نامشخص‌بودن مسئولیت‌ها و دشوارشدن پیگیری پیشرفت شود. DevTrack برای ایجاد یک فضای منظم جهت ثبت، تخصیص و پیگیری وظایف طراحی شده است.
 
-Students, software development teams, and small project teams.
+قابلیت‌های اصلی
 
-Project Goals
+- ایجاد و مدیریت پروژه‌ها
+- ایجاد، ویرایش و حذف وظایف
+- تعیین وضعیت وظایف: انجام‌نشده، در حال انجام و انجام‌شده
+- تعیین اولویت وظایف
+- اختصاص وظایف به اعضای تیم
+- دسته‌بندی وظایف با برچسب
+- جست‌وجو و فیلتر وظایف
+- ثبت تاریخ ایجاد و آخرین به‌روزرسانی وظایف
 
-- Improve task organization
-- Make project progress easier to track
-- Support collaboration among team members
+مخاطب‌ها
 
-Development Status
+- دانشجویان و گروه‌های دانشگاهی
+- تیم‌های توسعه نرم‌افزار
+- گروه‌های کوچک کاری که به مدیریت وظایف نیاز دارند
 
-This project is currently in the initial design and development stage. The listed features describe the planned functionality and may not yet be implemented.
+فناوری‌های پیشنهادی
+
+انتخاب نهایی فناوری‌ها پس از بررسی نیازمندی‌ها و امکان‌سنجی انجام خواهد شد.
+
+- زبان برنامه‌نویسی: هنوز انتخاب نشده است.
+- پایگاه داده: هنوز انتخاب نشده است.
+- رابط کاربری: در مرحله بررسی و طراحی است.
+
+نقشه راه
+
+- [ ] فاز اول: جمع‌آوری نیازمندی‌ها و تهیه مستندات
+- [ ] فاز دوم: تحلیل نیازمندی‌ها و مدل‌سازی سیستم
+- [ ] فاز سوم: طراحی معماری و رابط کاربری
+- [ ] فاز چهارم: پیاده‌سازی قابلیت‌های اصلی
+- [ ] فاز پنجم: آزمون، رفع اشکال و مستندسازی نهایی
+
+وضعیت توسعه
+
+پروژه در مرحله برنامه‌ریزی و مستندسازی اولیه قرار دارد. قابلیت‌های فهرست‌شده، ویژگی‌های موردنظر محصول هستند و هنوز لزوماً پیاده‌سازی نشده‌اند.

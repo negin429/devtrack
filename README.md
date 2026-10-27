@@ -7,10 +7,15 @@ DevTrack یک سامانه برای مدیریت پروژه‌ها و وظایف
 وضعیت مستندات پروژه
 
 مستند| وضعیت
+## وضعیت مستندات پروژه
+
+| مستند | وضعیت |
+|---|---|
 | [درخواست مشتری](specification/01-client-request.md) | تکمیل |
-| [درخواست سیستم](specification/specification/02-system-request.md) | تکمیل |
-| [تحلیل امکان‌سنجی](specification/specification/specification/03-feasibility.md) | تکمیل |
-| [منشور پروژه](specification/specification/specification/specification/04-project-charter.md) | تکمیل |
+| [درخواست سیستم](specification/02-system-request.md) | تکمیل |
+| [تحلیل امکان‌سنجی](specification/03-feasibility.md) | تکمیل |
+| [منشور پروژه](specification/04-project-charter.md) | تکمیل |
+
 بیان مسئله
 
 در پروژه‌های تیمی، اطلاعات مربوط به وظایف، مسئولیت افراد و میزان پیشرفت کار ممکن است در پیام‌ها و ابزارهای مختلف پراکنده شود. این موضوع پیگیری کارها و هماهنگی اعضای تیم را دشوار می‌کند.

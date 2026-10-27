@@ -7,7 +7,7 @@ DevTrack یک سامانه برای مدیریت پروژه‌ها و وظایف
 وضعیت مستندات پروژه
 
 مستند| وضعیت
-"درخواست مشتری" (specification/01-client-request.md)| تکمیل
+| [درخواست مشتری](specification/01-client-request.md) | تکمیل |
 "درخواست سیستم" (specification/02-system-request.md)| تکمیل
 "تحلیل امکان‌سنجی" (specification/03-feasibility.md)| تکمیل
 "منشور پروژه" (specification/04-project-charter.md)| تکمیل

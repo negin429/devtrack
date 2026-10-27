@@ -6,7 +6,7 @@ DevTrack سامانه‌ای برای سازمان‌دهی پروژه‌ها، 
 
 #| فاز SDLC| سند| وضعیت
 1| Planning| برگه درخواست مشتری — "specification/01-client-request.md"| تکمیل شده
-2| Planning| درخواست سیستم — "specification/02-system-request.md"| در حال انجام
+2| Planning| درخواست سیستم — "specification/02-system-request.md"| تکمیل شده
 3| Planning| تحلیل امکان‌سنجی — "specification/03-feasibility.md"| در حال انجام
 4| Planning| منشور پروژه — "specification/04-project-charter.md"| در حال انجام
 5| Analysis| نیازمندی‌های غیرعملیاتی| آینده
